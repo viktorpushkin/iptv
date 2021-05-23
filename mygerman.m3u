@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Wien24
+#EXTVLCOPT:network-caching=1000
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:0, oe24.TV (360p)
 https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:0,tagesschau24
@@ -65,7 +68,7 @@ https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 https://stream.openplayout.org/hls/dorf.m3u8
 #EXTINF:0, Go TV (576p)
 https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8
-#EXTINF:0, Hitradio ÷3 (360p)
+#EXTINF:0, Hitradio –¶3 (360p)
 http://185.85.28.19/oe3sd/orf.sdp/master.m3u8
 #EXTINF:0, Kronehit HD (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
@@ -93,7 +96,7 @@ http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8&checkedby
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:0,BR Fernsehen Nord HD
 https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
-#EXTINF:0,BR Fernsehen S¸d HD
+#EXTINF:0,BR Fernsehen S—åd HD
 https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
 #EXTINF:0,BR HD
 https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8
@@ -131,7 +134,7 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0,Deutsche Welle
 https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8
-#EXTINF:0,Deutsche Welle EspaÒol
+#EXTINF:0,Deutsche Welle Espa—Åol
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0,EOTV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
